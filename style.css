@@ -101,6 +101,9 @@ h6 p {
   text-align: right;
 }
 @media (max-width: 576px) {
+  .abt-us ul li {
+  text-align: center;
+  }
   .jed-btn {
     width: 12rem;
     display: block;
