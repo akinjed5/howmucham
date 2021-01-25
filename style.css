@@ -101,9 +101,6 @@ h6 p {
   text-align: right;
 }
 @media (max-width: 576px) {
-  .abt-us ul li {
-  text-align: center;
-  }
   .jed-btn {
     width: 12rem;
     display: block;
@@ -122,6 +119,7 @@ h6 p {
   }
   .abt-us ul {
     padding-left: 0rem;
+    text-align: center;  
   }
   #cprt .row {
     font-size: 0.5rem;
